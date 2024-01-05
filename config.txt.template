@@ -1,0 +1,4 @@
+SOURCE_DIR="put source dir here"
+TARGET_DIR="put target dir here"
+
+DIRS="put;any;directory;here"
